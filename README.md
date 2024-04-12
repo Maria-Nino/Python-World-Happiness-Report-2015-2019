@@ -11,9 +11,14 @@ This project delves into the intricacies of global happiness trends, dissecting 
 7.	Are there any significant differences in happiness scores between developed and developing countries?
 
 # Data
-This project uses data from kaggle to gather the happiness report information: https://www.kaggle.com/datasets/unsdsn/world-happiness/data?select=2017.csv
-Another set used from kaggle was a GDP data set from 1999 to 2022 for a time series analysis: https://www.kaggle.com/datasets/alejopaullier/-gdp-by-country-1999-2022 
-Finally, a world countries JSON file from kaggle: https://www.kaggle.com/datasets/ktochylin/world-countries
+This project uses data from kaggle to gather the happiness report information: 
+https://www.kaggle.com/datasets/unsdsn/world-happiness/data?select=2017.csv
+
+Another set used from kaggle was a GDP data set from 1999 to 2022 for a time series analysis: 
+https://www.kaggle.com/datasets/alejopaullier/-gdp-by-country-1999-2022 
+
+Finally, a world countries JSON file from kaggle: 
+https://www.kaggle.com/datasets/ktochylin/world-countries
 
 # Visualizations
 A story board was created using Tableau to showcase the findings of the project
